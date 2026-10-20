@@ -9,13 +9,13 @@
       "name": "developer.owner",
       "type": "com.sk.skala.myapp.config.DeveloperProperties$Owner",
       "sourceType": "com.sk.skala.myapp.config.DeveloperProperties",
-      "sourceMethod": "getOwner()"
+      "sourceMethod": "public com.sk.skala.myapp.config.DeveloperProperties.Owner getOwner() "
     },
     {
       "name": "developer.team",
       "type": "com.sk.skala.myapp.config.DeveloperProperties$Team",
       "sourceType": "com.sk.skala.myapp.config.DeveloperProperties",
-      "sourceMethod": "getTeam()"
+      "sourceMethod": "public com.sk.skala.myapp.config.DeveloperProperties.Team getTeam() "
     }
   ],
   "properties": [
